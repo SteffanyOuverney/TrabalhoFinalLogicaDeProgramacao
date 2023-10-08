@@ -7,5 +7,5 @@
     possua as funcionalidades a seguir.
 </p>
 <div align ="center"> 
-  <img src = "Sistema de Gerenciamento de Turma.png" alt = "Portugol studio - Tela do sistema" width = "200" height = "100"/> 
+  <img src = "Sistema de Gerenciamento de Turma.png" alt = "Portugol studio - Tela do sistema" width = "400" height = "200"/> 
 </div>
